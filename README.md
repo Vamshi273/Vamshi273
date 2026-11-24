@@ -55,11 +55,23 @@ I'm a developer passionate about building practical technology, exploring cybers
 
 ## 🚀 Featured Projects
 
+## 🔐 Cybersecurity & SOC Projects
+
 <div align="center">
 
 <a href="https://github.com/Vamshi273/SOC-Log-Analysis-Using-Splunk">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vamshi273&repo=SOC-Log-Analysis-Using-Splunk&theme=tokyonight&hide_border=true"/>
 </a>
+
+<a href="https://github.com/Vamshi273/SOC-and-Log-Analysis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vamshi273&repo=SOC-and-Log-Analysis&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+## 💻 Development Projects
+
+<div align="center">
 
 <a href="https://github.com/Vamshi273/cybersecurity-portfolio">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vamshi273&repo=cybersecurity-portfolio&theme=tokyonight&hide_border=true"/>
