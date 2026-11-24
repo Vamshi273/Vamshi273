@@ -93,7 +93,7 @@ I'm a developer passionate about building practical technology, exploring cybers
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vamshi273/Vamshi273/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Vamshi273/Vamshi273/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
