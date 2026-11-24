@@ -53,7 +53,6 @@ I'm a developer passionate about building practical technology, exploring cybers
 
 ---
 
-## 🚀 Featured Projects
 
 ## 🔐 Cybersecurity & SOC Projects
 
