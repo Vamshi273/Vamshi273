@@ -91,10 +91,14 @@ I'm a developer passionate about building practical technology, exploring cybers
 
 ## 🐍 Contribution Activity
 
+<h2 align="center">🐍 My Contribution Activity</h2>
+
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Vamshi273/Vamshi273/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
-
+  <img
+    src="https://raw.githubusercontent.com/Vamshi273/Vamshi273/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="Contribution Snake"
+  />
 </div>
 
 ---
